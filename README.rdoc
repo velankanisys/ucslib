@@ -146,6 +146,6 @@ Documentation, Documentation, Documentation!
 == Copyright
 
 Copyright (c) 2012 - 2014 Murali Raju. See LICENSE.txt for further details.
+Copytight (c) 2013 - 2014 Velankani Information Systems, Inc.
 
 [1]: https://www.pivotaltracker.com/s/projects/1065870
-
